@@ -10,8 +10,6 @@ import android.widget.TextView;
 
 import com.example.android.pets.data.PetContract;
 
-import org.w3c.dom.Text;
-
 /**
  * Created by leo on 27/12/16.
  */
